@@ -1,0 +1,10 @@
+﻿# Fichiers generes par Vitis Unified (ne pas versionner)
+.metadata/
+logs/
+_ide/
+build/
+*.log
+*.jou
+.Xil/
+# Plateforme : regenerable depuis hw/aifes_system_wrapper.xsa
+vitis/aifes_platform/
