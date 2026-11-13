@@ -21,3 +21,12 @@ vitis/aifes_platform/
 compile_commands.json
 .cache/
 .rigel_lopper/
+
+# Projet Vivado d'edition de l'IP : fichiers generes
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
