@@ -8,3 +8,16 @@ build/
 .Xil/
 # Plateforme : regenerable depuis hw/aifes_system_wrapper.xsa
 vitis/aifes_platform/
+
+# Fichiers de l'editeur Vitis (clangd)
+.clangd
+.compile_commands/
+
+# Fichiers de l'editeur Vitis (clangd)
+.clangd
+.compile_commands/
+
+# Fichiers generes (editeur + device tree Vitis)
+compile_commands.json
+.cache/
+.rigel_lopper/
